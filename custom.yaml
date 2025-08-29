@@ -1,0 +1,6 @@
+train: data/train
+test: data/test
+val: data/val
+
+nc: 1
+names: ['Bolt_Nut']
